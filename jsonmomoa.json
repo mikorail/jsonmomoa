@@ -1,0 +1,36 @@
+{
+"products":
+[
+{"id":1,"name":"Strawberries","price":"4.07"},
+{"id":2,"name":"Crab - Back Fin Meat, Canned","price":"3.82"},
+{"id":3,"name":"Ginger - Fresh","price":"6.23"},
+{"id":4,"name":"Salt - Sea","price":"9.35"},
+{"id":5,"name":"Chocolate - Dark Callets","price":"5.42"},
+{"id":6,"name":"Laundry - Bag Cloth","price":"7.45"},
+{"id":7,"name":"Milk - Buttermilk","price":"7.08"},
+{"id":8,"name":"Island Oasis - Pina Colada","price":"9.72"},
+{"id":9,"name":"Wine - Red, Mosaic Zweigelt","price":"3.45"},
+{"id":10,"name":"Clams - Canned","price":"0.82"},
+{"id":11,"name":"Papayas","price":"5.37"},
+{"id":12,"name":"Quail - Jumbo","price":"4.90"},
+{"id":13,"name":"Beans - Black Bean, Preserved","price":"6.75"},
+{"id":14,"name":"Veal - Loin","price":"2.19"},
+{"id":15,"name":"Soup - Clam Chowder, Dry Mix","price":"1.76"},
+{"id":16,"name":"Pepper - Chipotle, Canned","price":"8.23"},
+{"id":17,"name":"Cumin - Ground","price":"1.70"},
+{"id":18,"name":"Tea Leaves - Oolong","price":"9.86"},
+{"id":19,"name":"Spinach - Packaged","price":"5.98"},
+{"id":20,"name":"Beef - Eye Of Round","price":"6.78"},
+{"id":21,"name":"Guinea Fowl","price":"3.39"},
+{"id":22,"name":"Flour - Bread","price":"0.54"},
+{"id":23,"name":"Bread Base - Goodhearth","price":"8.98"},
+{"id":24,"name":"Cookies - Amaretto","price":"5.93"},
+{"id":25,"name":"Butter Sweet","price":"9.15"},
+{"id":26,"name":"Cake - French Pear Tart","price":"4.77"},
+{"id":27,"name":"Bread - Roll, Italian","price":"6.19"},
+{"id":28,"name":"Tea - Green","price":"3.87"},
+{"id":29,"name":"Amarula Cream","price":"6.01"},
+{"id":30,"name":"Pepper - Jalapeno","price":"6.67"}
+]
+
+}
